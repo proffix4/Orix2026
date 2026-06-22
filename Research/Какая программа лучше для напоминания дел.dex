@@ -1,0 +1,48 @@
+[vr_Main_Experts_Section]
+Theme=ORIX EXPERT
+ColCount=3
+RowCount=5
+[vr_Data]
+param_1=Варианты:
+param_2=Расчет,% : ->
+param_3=Количество функций: [0..5]
+param_4=Простота работы (0-5 баллов): [0..5]
+param_5=Цена, тенге: [1000..oo]
+column_width_0=250
+param_6=Orix
+param_7=90
+param_8=3
+param_9=5
+param_10=1
+column_width_1=168
+param_11=Microsoft Outlook
+param_12=40,8
+param_13=5
+param_14=3
+param_15=60000
+column_width_2=136
+[cr_Main_Experts_Section]
+Theme=Какая программа лучше для напоминания дел ?
+ColCount=4
+RowCount=4
+[cr_Data]
+param_1=Критерии
+param_2=1
+param_3=2
+param_4=3
+column_width_0=80
+param_5=Название критерия
+param_6=Количество функций
+param_7=Простота работы (0-5 баллов)
+param_8=Цена, тенге
+column_width_1=239
+param_9=Важность критерия
+param_10=2
+param_11=2
+param_12=1
+column_width_2=179
+param_13=Предел
+param_14=5
+param_15=5
+param_16=-1000
+column_width_3=80
